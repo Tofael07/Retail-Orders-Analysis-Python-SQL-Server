@@ -1,4 +1,4 @@
-# Retail-Orders-Analysis-Python-SQL-Server
+# Retail Orders Analysis [Python, SQL-Server]
 
 A complete data pipeline project that extracts, transforms, and analyzes retail order data using Python and SQL Server.
 
